@@ -228,6 +228,9 @@ MonoBehaviour:
     m_Bits: 128
   interactableLayer:
     serializedVersion: 2
+    m_Bits: 512
+  battleLayer:
+    serializedVersion: 2
     m_Bits: 256
 --- !u!95 &145019349
 Animator:
